@@ -1,0 +1,15 @@
+# secrets / local config
+.env
+.env.local
+
+# session outputs pulled from the agent
+outputs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
